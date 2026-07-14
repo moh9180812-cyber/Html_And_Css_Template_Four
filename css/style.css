@@ -1555,6 +1555,11 @@ ul {
   border: 3px solid white;
   margin: 2px;
 }
+@media (max-width: 767px) {
+  .footer .imgs {
+    margin: 0 auto;
+  }
+}
 .footer .copyright {
   margin: 50px 0 0;
   padding: 25px;
