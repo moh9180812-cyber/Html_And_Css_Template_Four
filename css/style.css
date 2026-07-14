@@ -1555,7 +1555,7 @@ ul {
   border: 3px solid white;
   margin: 2px;
 }
-@media (max-width: 767px) {
+@media (max-width: 587px) {
   .footer .imgs {
     display: flex;
     flex-wrap: wrap;
